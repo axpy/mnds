@@ -1,1 +1,3 @@
 3h Linear Algebra
+2h Kaggle (Data visualization)
+
