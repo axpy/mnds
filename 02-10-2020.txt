@@ -1,0 +1,2 @@
+1.5h Calculus (Integral of sin^n, cos^m)
+.5h Linear Algebra (Symmetric matrices and Eigenvalues practice)

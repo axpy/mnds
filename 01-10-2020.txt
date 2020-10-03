@@ -1,4 +1,4 @@
 3h Linear Algebra (Symmetric Matrices and Eigenvalues)
 2h Kaggle (Data visualization)
-3h Calculus (Integral of sin^n, cos^m)
+2h Calculus (Integral of sin^n, cos^m)
 
